@@ -1,0 +1,9 @@
+.InfoBox {
+    display: flex;
+    justify-content: center;
+}
+
+.Weather {
+    text-align: center;
+}
+
